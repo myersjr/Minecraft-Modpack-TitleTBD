@@ -361,7 +361,7 @@
 	[Mobs.Stymphalians]
 		#How many blocks away can stymphalian birds spot potential prey. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
-		"Stymphalian Bird Target Search Length" = 64
+		"Stymphalian Bird Target Search Length" = 32
 		#True if stymphalian birds are allowed to target and attack animals
 		"Stymphalian Birds Target Animals" = false
 		#1 out of this number chance per chunk for generation

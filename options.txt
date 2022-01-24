@@ -64,7 +64,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -155,12 +155,13 @@ key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.hexblades.awake:key.keyboard.h
 key_key.hexblades.mining:key.keyboard.j
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_quark.keybind.autorun:key.keyboard.caps.lock
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.autorun:key.keyboard.caps.lock
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -179,7 +180,6 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.change_hotbar:key.keyboard.z
